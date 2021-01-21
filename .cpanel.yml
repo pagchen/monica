@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/apps.designdesite.com/
+    - export DEPLOYPATH=/home/designdesite/apps.designdesite.com/
     - /bin/cp -R * $DEPLOYPATH
